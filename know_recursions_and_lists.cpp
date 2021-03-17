@@ -1,10 +1,6 @@
 // Name: Joshua Lavieri
-// Z#: 23477048
 // Course: Data Structures
 // Professor: Dr. Lofton Bullard
-// Due Date: 11/18/2020
-// Total Points: 25
-// Assignent#: 10B
 
 #include <iostream>
 #include <string>
